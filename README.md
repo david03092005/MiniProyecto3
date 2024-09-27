@@ -18,3 +18,5 @@ Francisco Suarez Ramirez
 
 4. Finalizing the Composition:  
    Once the individual musical elements were in place, we assembled them into a complete composition. We adjusted timing, transitions, and dynamics to achieve a seamless flow, while ensuring the piece maintained the atmosphere and tension suitable for a game like Assassin’s Creed Unity
+
+[YouTube video](https://www.youtube.com/watch?v=nFb0JoMUvDM)
